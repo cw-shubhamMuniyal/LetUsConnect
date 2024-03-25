@@ -1,0 +1,16 @@
+body #simple{
+	position: absolute;
+}
+#loader{
+	visibility: hidden;
+	top: 50%;
+	left: 50%;
+	position: fixed;
+	z-index: 999;
+}
+.blur {
+	opacity: 0.5;
+}
+.no-blur{
+	opacity: 1;
+}
