@@ -1,5 +1,5 @@
 # connectMe
-The website allows you to showcase your skills and connect with people. You can add your work experience and projects, basically your whole portfolio in a consice way. It also contains chat feature where you can talk to ones who are interested in your portfolio.
+The website allows you to showcase your skills and connect with people. You can add your work experience and projects, basically your whole portfolio in a concise way. It also contains chat feature where you can connect with other people on the App.
 
 
 # Key Features
