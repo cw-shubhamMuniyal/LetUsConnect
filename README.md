@@ -21,6 +21,6 @@ The website allows you to showcase your skills and connect with people. You can 
 
 
 ## DEMO
-You can watch complete video of demo [Here](https://www.youtube.com/ "Here")
+You can watch complete video of demo [Here](https://www.youtube.com/watch?v=yhFXsnOGeEI "Here")
 
 

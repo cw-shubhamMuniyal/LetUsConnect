@@ -8,7 +8,6 @@ $( document ).ready(function(e) {
     
 
     $( "#searchEmail" ).autocomplete({
-        
         source: function(request, response){
             var pathArray = window.location.pathname.split('/');
             var hostName = pathArray[1]; // gives ci
